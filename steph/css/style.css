@@ -1,0 +1,4 @@
+.button{display:block;text-decoration:none;color:white;height:25px;line-height:25px;background:rgba(255,0,0,0.7);width:200px;border:2px solid black;border-radius:20px;text-align:center;}
+.form1{width:400px;background:rgb(135,206,250);padding:10px;}
+ul{list-style:none;}
+.select{width:55px}
